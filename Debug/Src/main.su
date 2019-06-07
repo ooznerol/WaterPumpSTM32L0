@@ -1,0 +1,12 @@
+main.c:94:6:HAL_ADC_ConvCpltCallback	16	static
+main.c:125:5:main	160	static
+main.c:375:6:SystemClock_Config	112	static
+main.c:427:13:MX_ADC_Init	16	static
+main.c:509:13:MX_I2C1_Init	8	static
+main.c:555:13:MX_RTC_Init	72	static
+main.c:636:13:MX_USART2_UART_Init	8	static
+main.c:669:13:MX_DMA_Init	16	static
+main.c:686:13:MX_GPIO_Init	48	static
+main.c:730:6:GotoStandby	48	static
+main.c:784:6:UpdateDisplay	136	static
+main.c:979:6:Error_Handler	8	static
